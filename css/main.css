@@ -46,7 +46,8 @@ aside {
 
 .logo {
     font-weight: 400;
-    font-size: 1.3rem;
+    font-size: 3rem;
+    color: var(--color-light);
 }
 
 .menu {
@@ -153,6 +154,7 @@ main {
 .titulo-principal {
     color: var(--color-main);
     margin-bottom: 2rem;
+    font-size: 2rem;
 }
 
 .contenedor-productos {
@@ -380,7 +382,7 @@ main {
     }
 
     .header-mobile .logo {
-        color: var(--clr-gray);
+        color: var(--color-light);
     }
 
     .open-menu, .close-menu {

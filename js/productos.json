@@ -164,6 +164,39 @@
             "id": "amd"
         },
         "imagen": "img/580.jpg"
+    },
+    {
+        "id": "Radeon VII",
+        "titulo": "Radeon VII",
+        "desc": "AMD - Gigabyte OC",
+        "precio": 220,
+        "categoria": {
+            "nombre": "AMD",
+            "id": "amd"
+        },
+        "imagen": "img/radeonvii.jpg"
+    },
+    {
+        "id": "ARC 750",
+        "titulo": "ARC 750",
+        "desc": "Intel - Founders Edition",
+        "precio": 280,
+        "categoria": {
+            "nombre": "INTEL",
+            "id": "intel"
+        },
+        "imagen": "img/arc750.jpg"
+    },
+    {
+        "id": "ARC 770",
+        "titulo": "ARC 770",
+        "desc": "Intel - Founders Edition",
+        "precio": 320,
+        "categoria": {
+            "nombre": "INTEL",
+            "id": "intel"
+        },
+        "imagen": "img/arc770.jpg"
     }
 
 ]
