@@ -1,0 +1,170 @@
+[
+
+    {
+        "id": "RTX 3090",
+        "titulo": "RTX 3090",
+        "desc": "Nvidia - Zotac Gaming",
+        "precio": 1800,
+        "categoria": {
+            "nombre": "Nvidia",
+            "id": "nvidia"
+        },
+        "imagen": "img/3090.jpg"
+    },
+    {
+        "id": "RTX 3080",
+        "titulo": "RTX 3080",
+        "desc": "Nvidia - Gigabyte OC",
+        "precio": 1400,
+        "categoria": {
+            "nombre": "Nvidia",
+            "id": "nvidia"
+        },
+        "imagen": "img/3080.png"
+    },
+    {
+        "id": "RTX 3070 ti",
+        "titulo": "RTX 3070 ti",
+        "desc": "Nvidia - MSI Suprim X",
+        "precio": 900,
+        "categoria": {
+            "nombre": "Nvidia",
+            "id": "nvidia"
+        },
+        "imagen": "img/3070.jfif"
+    },
+    {
+        "id": "RTX 3060 ti",
+        "titulo": "RTX 3060 ti",
+        "desc": "Nvidia - MSI Ventus 3x",
+        "precio": 700,
+        "categoria": {
+            "nombre": "Nvidia",
+            "id": "nvidia"
+        },
+        "imagen": "img/3060.jfif"
+    },
+    {
+        "id": "RTX 3050",
+        "titulo": "RTX 3050",
+        "desc": "Nvidia - Palit Dual OC",
+        "precio": 400,
+        "categoria": {
+            "nombre": "Nvidia",
+            "id": "nvidia"
+        },
+        "imagen": "img/3050.jpg"
+    },
+    {
+        "id": "GTX 1660 Super",
+        "titulo": "GTX 1660 Super",
+        "desc": "Nvidia - MSI Gaming X",
+        "precio": 250,
+        "categoria": {
+            "nombre": "Nvidia",
+            "id": "nvidia"
+        },
+        "imagen": "img/1660.jpg"
+    },
+    {
+        "id": "GTX 1660 ti",
+        "titulo": "GTX 1660 ti",
+        "desc": "Nvidia - MSI Gaming X",
+        "precio": 200,
+        "categoria": {
+            "nombre": "Nvidia",
+            "id": "nvidia"
+        },
+        "imagen": "img/1660.jpg"
+    },
+    {
+        "id": "GTX 1660",
+        "titulo": "GTX 1660",
+        "desc": "Nvidia - MSI Gaming X",
+        "precio": 180,
+        "categoria": {
+            "nombre": "Nvidia",
+            "id": "nvidia"
+        },
+        "imagen": "img/1660.jpg"
+    },
+    {
+        "id": "RX 6900 XT",
+        "titulo": "RX 6900 XT",
+        "desc": "AMD - Gigabyte Aorus OC",
+        "precio": 1400,
+        "categoria": {
+            "nombre": "AMD",
+            "id": "amd"
+        },
+        "imagen": "img/6900.jfif"
+    },
+    {
+        "id": "RX 6800 XT",
+        "titulo": "RX 6800 XT",
+        "desc": "AMD - MSI Gaming Z Trio",
+        "precio": 1100,
+        "categoria": {
+            "nombre": "AMD",
+            "id": "amd"
+        },
+        "imagen": "img/6800.jpg"
+    },
+    {
+        "id": "RX 6700 XT",
+        "titulo": "RX 6700 XT",
+        "desc": "AMD - PowerColor HellHound",
+        "precio": 800,
+        "categoria": {
+            "nombre": "AMD",
+            "id": "amd"
+        },
+        "imagen": "img/6700.webp"
+    },
+    {
+        "id": "RX 6600 XT",
+        "titulo": "RX 6600 XT",
+        "desc": "AMD - ROG Strix Gaming OC",
+        "precio": 600,
+        "categoria": {
+            "nombre": "AMD",
+            "id": "amd"
+        },
+        "imagen": "img/6600.jpg"
+    },
+    {
+        "id": "RX 6500 XT",
+        "titulo": "RX 6500 XT",
+        "desc": "AMD - Pulse Gaming OC",
+        "precio": 350,
+        "categoria": {
+            "nombre": "AMD",
+            "id": "amd"
+        },
+        "imagen": "img/6500.jpg"
+    },
+    {
+        "id": "RX 580",
+        "titulo": "RX 580",
+        "desc": "AMD - ASRock Phantom Gaming",
+        "precio": 200,
+        "categoria": {
+            "nombre": "AMD",
+            "id": "amd"
+        },
+        "imagen": "img/580.jpg"
+    },
+    {
+        "id": "RX 570",
+        "titulo": "RX 570",
+        "desc": "AMD - ASRock Phantom Gaming",
+        "precio": 160,
+        "categoria": {
+            "nombre": "AMD",
+            "id": "amd"
+        },
+        "imagen": "img/580.jpg"
+    }
+
+]
+
