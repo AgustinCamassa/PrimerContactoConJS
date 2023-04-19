@@ -5,7 +5,6 @@
     --color-main-light: #757575;
     --color-solid: #979696;
     --color-light: #ffffff;
-    --color-acento: #961818;
 }
 
 * {
@@ -104,9 +103,6 @@ aside {
     margin-top: 2rem;
 }
 
-
-
-
 .gpu-icon {
     color: rgb(128, 4, 90);
     background-color: white;
@@ -135,8 +131,12 @@ aside {
     border-radius: 0.2rem;
 }
 
-
-
+.carrito-icon {
+    color: rgb(131, 120, 0);
+    background-color: white;
+    padding: 0px 3px;
+    border-radius: 0.2rem;
+}
 
 .texto-footer {
     color: var(--color-main-light);
@@ -219,7 +219,6 @@ main {
     color: var(--color-main);
     margin-top: 2rem;
     font-size: 1.3rem;
-    display: none;
 }
 
 .carrito-productos {
@@ -355,6 +354,7 @@ main {
         transform: translateX(0);
         opacity: 1;
         visibility: visible;
+        background-color: var(--color-main);
     }
 
     .boton-menu.active::before,

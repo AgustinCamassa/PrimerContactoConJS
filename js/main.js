@@ -86,16 +86,17 @@ function agregarAlCarrito(e) {
 
     Toastify({
         text: "Producto agregado",
-        duration: 3000,
-        close: true,
+        duration: 4000,
+        close: false,
         gravity: "top",
         position: "right",
         stopOnFocus: true,
         style: {
-            background: "linear-gradient(to right, #4b33a8, #785ce9)",
-            borderRadius: "2rem",
+            background: "#ffffff",
+            borderRadius: "0.8rem",
             textTransform: "uppercase",
-            fontSize: ".75rem"
+            fontSize: "1rem",
+            color: "#424242"
         },
         offset: {
             x: '1.5rem',
